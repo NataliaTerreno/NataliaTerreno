@@ -7,6 +7,9 @@
 <h3 align="left">Proyectos realizados:</h3>
 <p align="left">
   
+  ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/49429b2e-5558-4889-b2dd-a6ebe418ecc0)
+
+  
  - Dasboard Power BI - Call center [https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection](https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection)
 
 - Dashboard Looker Studio - Control de Gestión de Papelera Mayorista [https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD](https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD)
