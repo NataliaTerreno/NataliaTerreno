@@ -1,25 +1,31 @@
 <h1 align="center">Natalia Terreno - Contadora Pública | Data & BI Analyst</h1>
 <h3 align="center">Me especializo en análisis de datos, planificación y control de gestión empresarial para la toma decisiones estratégicas en pos de lograr la mejora continua y el cumplimiento de la visión de negocio. Disfruto aportar mis conocimientos y habilidades en organizaciones con propósito, relacionadas al bienestar de la sociedad, la educación y el desarrollo creativo y empresarial.</h3>
 
-
 - Accede a mi Curriculum Vitae https://www.canva.com/design/DAFITmfq7Aw/view
 
 <h3 align="left">Proyectos realizados:</h3>
 <p align="left">
-  
-  ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/49429b2e-5558-4889-b2dd-a6ebe418ecc0)
-
-  
+    
  - Dasboard Power BI - Call center [https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection](https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection)
+  
+ ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/8401cc09-bf82-49a2-946d-64a1527a4cbf)
 
 - Dashboard Looker Studio - Control de Gestión de Papelera Mayorista [https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD](https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD)
 
+ ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/5ac8a015-c959-43d6-a0a4-d2e7b52c4371)
+   
 - Dashboard Looker Studio - Control de gestión de Franquicia de Lomitos [https://lookerstudio.google.com/u/0/reporting/80d53d0d-2560-45bc-ab23-acb64dc7e8b8/page/FbxtC](https://lookerstudio.google.com/u/0/reporting/80d53d0d-2560-45bc-ab23-acb64dc7e8b8/page/FbxtC)
+  
+![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/39c818dc-0d6f-4e8b-9692-bde88f86ef87)
 
 - Dashboard Looker Studio - Análisis proyecto de inversión de Gráfica [https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c](https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c)
 
-- Proyecto SQL - Análisis de Ventas [https://docs.google.com/presentation/d/10kxv0id168TAEk7_WSMCyIGPyLE34KNfzw-lbHEOkl8/edit#slide=id.g13a2481b263_0_3](https://docs.google.com/presentation/d/10kxv0id168TAEk7_WSMCyIGPyLE34KNfzw-lbHEOkl8/edit#slide=id.g13a2481b263_0_3)
+![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/b8f5accb-e633-4c19-b6b2-1b765b187f4c)
   
+- Proyecto SQL - Análisis de Ventas [https://docs.google.com/presentation/d/10kxv0id168TAEk7_WSMCyIGPyLE34KNfzw-lbHEOkl8/edit#slide=id.g13a2481b263_0_3](https://docs.google.com/presentation/d/10kxv0id168TAEk7_WSMCyIGPyLE34KNfzw-lbHEOkl8/edit#slide=id.g13a2481b263_0_3)
+ 
+![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/709155d4-3037-4457-9984-772a1f96a7d5)
+
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/natalia-terreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natalia-terreno" height="30" width="40" /></a>
