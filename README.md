@@ -9,8 +9,14 @@
   
  - Dasboard Power BI - Call center [https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection](https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection)
 
-- Dashboard Looker Studio - Control de Gestión [https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD](https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD)
+- Dashboard Looker Studio - Control de Gestión de Papelera Mayorista [https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD](https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD)
 
+- Dashboard Looker Studio - Control de gestión de Franquicia de Lomitos [https://lookerstudio.google.com/u/0/reporting/80d53d0d-2560-45bc-ab23-acb64dc7e8b8/page/FbxtC](https://lookerstudio.google.com/u/0/reporting/80d53d0d-2560-45bc-ab23-acb64dc7e8b8/page/FbxtC)
+
+- Dashboard Looker Studio - Análisis proyecto de inversión de Gráfica [https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c](https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c)
+
+- Proyecto SQL - Análisis de Ventas [https://docs.google.com/presentation/d/10kxv0id168TAEk7_WSMCyIGPyLE34KNfzw-lbHEOkl8/edit#slide=id.g13a2481b263_0_3](https://docs.google.com/presentation/d/10kxv0id168TAEk7_WSMCyIGPyLE34KNfzw-lbHEOkl8/edit#slide=id.g13a2481b263_0_3)
+  
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/natalia-terreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natalia-terreno" height="30" width="40" /></a>
