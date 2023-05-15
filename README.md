@@ -4,14 +4,16 @@
 
 - Accede a mi Curriculum Vitae https://www.canva.com/design/DAFITmfq7Aw/view
 
+- Dasboard Power BI - Call center [https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection](https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection)
+
+- Dashboard Looker Studio - Control de Gestión [https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD](https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/natalia-terreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natalia-terreno" height="30" width="40" /></a>
 </p>
 
-- Dasboard Power BI - Call center [https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection](https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection)
 
-- Dashboard Looker Studio - Control de Gestión [https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD](https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD)
 
 
 <h3 align="left">Languages and Tools:</h3>
