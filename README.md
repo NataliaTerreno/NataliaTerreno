@@ -31,7 +31,7 @@ https://www.canva.com/design/DAFITmfq7Aw/view
     
 - Dashboard Looker Studio - Análisis proyecto de inversión de Gráfica [https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c](https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c)
 
-![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/3156de03-c753-451a-8b2a-a4fa3ba5521e)
+![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/116b8d9c-271e-4acf-9a12-35af08b1a526) 
     
 - Proyecto SQL - Análisis de Ventas [https://docs.google.com/presentation/d/10kxv0id168TAEk7_WSMCyIGPyLE34KNfzw-lbHEOkl8/edit#slide=id.g13a2481b263_0_3](https://docs.google.com/presentation/d/10kxv0id168TAEk7_WSMCyIGPyLE34KNfzw-lbHEOkl8/edit#slide=id.g13a2481b263_0_3)
  
