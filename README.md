@@ -19,23 +19,23 @@ https://www.canva.com/design/DAFITmfq7Aw/view
     
  - Dasboard Power BI - Call center [https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection](https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection)
   
- ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/8401cc09-bf82-49a2-946d-64a1527a4cbf)
+![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/3e67a72c-c697-446c-bd12-bef9b028628b)
 
 - Dashboard Looker Studio - Control de Gestión de Papelera Mayorista [https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD](https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD)
 
- ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/5ac8a015-c959-43d6-a0a4-d2e7b52c4371)
+![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/91433200-2a48-406a-8b01-a58557048175)
    
 - Dashboard Looker Studio - Control de gestión de Franquicia de Lomitos [https://lookerstudio.google.com/u/0/reporting/80d53d0d-2560-45bc-ab23-acb64dc7e8b8/page/FbxtC](https://lookerstudio.google.com/u/0/reporting/80d53d0d-2560-45bc-ab23-acb64dc7e8b8/page/FbxtC)
   
-![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/39c818dc-0d6f-4e8b-9692-bde88f86ef87)
-
+![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/fa986fae-57df-453a-a2cc-a269cf3f7cc1)
+    
 - Dashboard Looker Studio - Análisis proyecto de inversión de Gráfica [https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c](https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c)
 
-![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/b8f5accb-e633-4c19-b6b2-1b765b187f4c)
-  
+![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/3156de03-c753-451a-8b2a-a4fa3ba5521e)
+    
 - Proyecto SQL - Análisis de Ventas [https://docs.google.com/presentation/d/10kxv0id168TAEk7_WSMCyIGPyLE34KNfzw-lbHEOkl8/edit#slide=id.g13a2481b263_0_3](https://docs.google.com/presentation/d/10kxv0id168TAEk7_WSMCyIGPyLE34KNfzw-lbHEOkl8/edit#slide=id.g13a2481b263_0_3)
  
-![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/709155d4-3037-4457-9984-772a1f96a7d5)
+![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/f1951d18-4d3a-4fac-80eb-d87e945fa1cd)
 
 
 
