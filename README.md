@@ -22,6 +22,10 @@ https://www.canva.com/design/DAFITmfq7Aw/view
   
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/3e67a72c-c697-446c-bd12-bef9b028628b)
 
+ - Dasboard Power BI - Mayorsta cosméticos https://app.powerbi.com/view?r=eyJrIjoiZmQ3MzQ0NTItM2U3Ny00NjAwLTkwZTktMjU0NDM2MWFmZGY2IiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection5a0c485a3ac9d22f92d7
+
+![Google Forms - Portada (5)](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/a4307991-961a-4099-825a-e45b49c16afb)
+
 - Dashboard Looker Studio - Control de Gestión de Papelera Mayorista [https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD](https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD)
 
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/91433200-2a48-406a-8b01-a58557048175)
