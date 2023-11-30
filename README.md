@@ -1,5 +1,5 @@
 <h1 align="center">Natalia Terreno - Contadora Pública | Data & BI Analyst</h1>
-<h3 align="center">Me especializo en análisis de datos, planificación y control de gestión empresarial para la toma decisiones estratégicas en pos de lograr la mejora continua y el cumplimiento de la visión de negocio. Disfruto aportar mis conocimientos y habilidades en organizaciones con propósito, relacionadas al bienestar de la sociedad, la educación y el desarrollo creativo y empresarial.</h3>
+<h3 align="center">Me especializo en análisis de datos, planificación y control de gestión empresarial para la toma decisiones estratégicas en pos de lograr la mejora continua y el cumplimiento de la visión de negocio. Mi misión es transformar los datos en valor.</h3>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
@@ -15,7 +15,7 @@
 <p align="left">
 https://www.canva.com/design/DAFITmfq7Aw/view
 
-<h3 align="left">Proyectos realizados:</h3>
+<h3 align="left">Algunos trabajos realizados:</h3>
 <p align="left">
     
  - Dasboard Power BI - Call center [https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection](https://app.powerbi.com/view?r=eyJrIjoiY2M5MGJiYTctOWU5Zi00ZTg3LWI2ZGEtYWM3NzI2NTQ3N2UyIiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection)
