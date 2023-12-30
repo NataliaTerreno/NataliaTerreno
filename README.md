@@ -6,12 +6,18 @@
 ▶️ Me especializo en análisis de datos, planificación y control de gestión empresarial para la toma de decisiones estratégicas en pos de lograr la mejora continua y el cumplimiento de la visión de negocio. Mi misión es transformar los datos en valor.
 
 ▶️ Los principios que rigen mi forma de trabajo:
-Aprendizaje continuo
-Experiencia y conocimiento
-Compromiso y responsabilidad
-Organización y planificación
-Perseverancia y proactividad
-Trabajo colaborativo en equipo creando sinergia 
+
+*Aprendizaje continuo
+
+*Experiencia y conocimiento
+
+*Compromiso y responsabilidad
+
+*Organización y planificación
+
+*Perseverancia y proactividad
+
+*Trabajo colaborativo en equipo creando sinergia 
 
 ▶️ Si crees que te puedo aportar valor o podemos generar intercambio de conocimientos, contactame!
 
