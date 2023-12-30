@@ -32,20 +32,23 @@ https://www.canva.com/design/DAFITmfq7Aw/view
   
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/3e67a72c-c697-446c-bd12-bef9b028628b)
 
+Desafío: 
+
+Enfrentamos el reto de optimizar la organización de la información empresarial mediante un Tablero de Control visual, permitiendo un seguimiento integral del proceso y rendimiento de las llamadas.
+
+Trabajo realizado: 
+
+Nuestro enfoque se centró en la definición precisa de métricas y KPIs relevantes, sentando así las bases para la creación del Tablero de Control. A través de un minucioso proceso, confeccionamos este tablero que se convirtió en el núcleo de monitoreo.
+
+Impacto:
+
+Entre otras cosas surgieron algunos insights como el horario o días de mayor o menor demanda de llamadas, lo cual se acompañó de una reestructuración de personal.
+También se descubrió que aquellas personas que trabajaban atendiendo llamadas homeoffice rendían mejor (atendían más llamadas). 
+Estas revelaciones clave fueron la fuerza motriz detrás de una reestructuración integral de nuestro capital humano. La mejora del bienestar tanto del talento interno como de los clientes se convirtió en el epicentro de esta transformación. Como resultado directo, se ha logrado otorgar un mayor número de servicios, catalizando un incremento sustancial en nuestra rentabilidad.
+
  - Dasboard Power BI - Mayorsta cosméticos https://app.powerbi.com/view?r=eyJrIjoiZmQ3MzQ0NTItM2U3Ny00NjAwLTkwZTktMjU0NDM2MWFmZGY2IiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection5a0c485a3ac9d22f92d7
 
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/40b3fc6c-75b2-4f0d-a921-976f4e5533d1)
-
-Desafío
-Enfrentamos el reto de optimizar la organización de la información empresarial mediante un Tablero de Control visual, permitiendo un seguimiento integral del proceso y rendimiento de las llamadas.
-
-Trabajo realizado 
-Nuestro enfoque se centró en la definición precisa de métricas y KPIs relevantes, sentando así las bases para la creación del Tablero de Control. A través de un minucioso proceso, confeccionamos este tablero que se convirtió en el núcleo de monitoreo.
-
-Impacto
- Entre otras cosas surgieron algunos insights como el horario o días de mayor o menor demanda de llamadas, lo cual se acompañó de una reestructuración de personal.
-También se descubrió que aquellas personas que trabajaban atendiendo llamadas homeoffice rendían mejor (atendían más llamadas). 
-Estas revelaciones clave fueron la fuerza motriz detrás de una reestructuración integral de nuestro capital humano. La mejora del bienestar tanto del talento interno como de los clientes se convirtió en el epicentro de esta transformación. Como resultado directo, se ha logrado otorgar un mayor número de servicios, catalizando un incremento sustancial en nuestra rentabilidad.
 
 - Dashboard Looker Studio - Control de Gestión de Papelera Mayorista [https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD](https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD)
 
