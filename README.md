@@ -58,6 +58,17 @@ Estas revelaciones clave fueron la fuerza motriz detrás de una reestructuració
 - Dashboard Looker Studio - Análisis proyecto de inversión de Gráfica [https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c](https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c)
 
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/116b8d9c-271e-4acf-9a12-35af08b1a526) 
+
+Desafío:
+El desafío se centró en la creación de un análisis de proyecto de inversión para la expansión a través de franquicias 
+
+Trabajo realizado:
+Se emprendió un proceso de recopilación de datos, buscando capturar la esencia de la empresa. Luego se realizaron proyecciones y análisis para evaluar la viabilidad del proyecto. Estos hallazgos se plasmaron de manera visual y estructurada en un Dashboard, proporcionando una representación clara y comprensible.
+Adicionalmente, se llevó a cabo una comparación del proyecto de franquicias con otras alternativas de inversión disponibles en el mercado, explorando todas las opciones posibles.
+
+Impacto:
+La labor de análisis reveló una perspectiva valiosa. Basándonos en los datos recopilados y el análisis profundo, se tomó una decisión estratégica: optar por otra alternativa de inversión, específicamente la creación de un centro de distribución. Esta elección brindó la oportunidad de evaluar y sopesar el proyecto de franquicias con mayor detenimiento, evitando lanzarlo de manera inmediata.
+Esta decisión estratégica demostró ser crucial, ya que evitó posibles pérdidas tanto financieras como de tiempo para la empresa. Al aplazar la implementación del proyecto de franquicias, nos permitió concentrarnos en la planificación y desarrollo del nuevo enfoque de centro de distribución, maximizando así el potencial y los recursos de la empresa.
     
 - Proyecto SQL - Análisis de Ventas [https://docs.google.com/presentation/d/10kxv0id168TAEk7_WSMCyIGPyLE34KNfzw-lbHEOkl8/edit#slide=id.g13a2481b263_0_3](https://docs.google.com/presentation/d/10kxv0id168TAEk7_WSMCyIGPyLE34KNfzw-lbHEOkl8/edit#slide=id.g13a2481b263_0_3)
  
