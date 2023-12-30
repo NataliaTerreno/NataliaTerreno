@@ -32,10 +32,10 @@ https://www.canva.com/design/DAFITmfq7Aw/view
   
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/3e67a72c-c697-446c-bd12-bef9b028628b)
 
-Desafío: 
+---Desafío:---
 Optimizar la organización de la información empresarial mediante un Tablero de Control visual, permitiendo un seguimiento integral del proceso y rendimiento de las llamadas.
 
-Trabajo realizado: 
+===Trabajo realizado:===
 Nuestro enfoque se centró en la definición precisa de métricas y KPIs relevantes, sentando así las bases para la creación del Tablero de Control. A través de un minucioso proceso, confeccionamos este tablero que se convirtió en el núcleo de monitoreo.
 
 Impacto:
