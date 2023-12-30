@@ -1,7 +1,7 @@
 <h1 align="center">Natalia Terreno - Cra. Pública | Data Analyst - Business Consultant </h1>
 <h3 align="center">
 
-▶️ Soy Contadora Pública y Data & BI Analyst con más de 10 años de experiencia en el rubro.  
+▶️ Soy Contadora Pública, Analista de datos y Consultora de negocios, con más de 10 años de experiencia en el rubro.  
 
 ▶️ Me especializo en análisis de datos, planificación y control de gestión empresarial para la toma de decisiones estratégicas en pos de lograr la mejora continua y el cumplimiento de la visión de negocio. Mi misión es transformar los datos en valor.
 
