@@ -1,4 +1,4 @@
-<h1 align="center">Natalia Terreno - Cra. Pública | Data & BI Business Consultant - Data & BI Analyst </h1>
+<h1 align="center">Natalia Terreno - Cra. Pública | Business Consultant - Data & BI Analyst </h1>
 <h3 align="center">
 
 ▶️ Soy Contadora Pública y Data & BI Analyst con más de 10 años de experiencia en el rubro.  
