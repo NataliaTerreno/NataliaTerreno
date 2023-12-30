@@ -43,18 +43,46 @@ Entre otras cosas surgieron algunos insights como el horario o días de mayor o 
 También se descubrió que aquellas personas que trabajaban atendiendo llamadas homeoffice rendían mejor (atendían más llamadas). 
 Estas revelaciones clave fueron la fuerza motriz detrás de una reestructuración integral del capital humano. La mejora del bienestar tanto del talento interno como de los clientes se convirtió en el epicentro de esta transformación. Como resultado directo, se ha logrado otorgar un mayor número de servicios, catalizando un incremento sustancial en la rentabilidad.
 
- - Dasboard Power BI - Mayorsta cosméticos https://app.powerbi.com/view?r=eyJrIjoiZmQ3MzQ0NTItM2U3Ny00NjAwLTkwZTktMjU0NDM2MWFmZGY2IiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection5a0c485a3ac9d22f92d7
+ - Dasboard Power BI - Mayorista cosméticos https://app.powerbi.com/view?r=eyJrIjoiZmQ3MzQ0NTItM2U3Ny00NjAwLTkwZTktMjU0NDM2MWFmZGY2IiwidCI6IjQ3ZTViMTQwLTY3MjQtNGEwMS05YzM3LTllZmVlMjVhZTdhNCIsImMiOjR9&pageName=ReportSection5a0c485a3ac9d22f92d7
 
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/40b3fc6c-75b2-4f0d-a921-976f4e5533d1)
 
 - Dashboard Looker Studio - Control de Gestión de Papelera Mayorista [https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD](https://lookerstudio.google.com/u/0/reporting/90fc8a0e-4f88-4d44-bcc8-f63a7935e12c/page/VJXBD)
 
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/91433200-2a48-406a-8b01-a58557048175)
-   
+
+Desafío:  
+El reto principal consistía en amalgamar diversas fuentes de información, incluyendo sistemas, hojas de cálculo y registros en papel, en un único Dashboard. Este Dashboard debía capturar y reflejar las métricas vitales para la empresa. Por ultimo se realizo un analisis del mismo y se propusieron diferentes vias de acciones para lograr el objetivo planteado por la empresa.
+
+Trabajo realizado:
+Se trazó un minucioso plan para optimizar la información existente. Luego, consolidamos esta información en un Dashboard dinámico, brindando acceso instantáneo y acelerando la toma de decisiones en tiempo real.
+
+Impacto:
+Se incorporo la producción propia en el armado de los productos como una faceta integral del proceso, lo que permitió un control más profundo sobre la calidad y el diseño de los productos.
+Se mantuvo la logística tercerizada en tanto siga siendo más rentable que desarrollar un departamento de logística propio, lo que brindó flexibilidad y eficiencia en la distribución.
+Se incorporo un sistema de gestión avanzado, que abrió las puertas a una escalabilidad más sólida y permitió aprovechar plenamente las capacidades del CRM para campañas publicitarias y estrategias de email marketing de alto rendimiento.
+A través de un minucioso análisis de mercado, se expandió el enfoque hacia la venta de productos digitalizados, capitalizando así nuevas oportunidades de mercado.
+Dichas acciones resultaron en un aumento de la eficiencia y por ende, en las ganancias de la empresa.
+
 - Dashboard Looker Studio - Control de gestión de Franquicia de Lomitos [https://lookerstudio.google.com/u/0/reporting/80d53d0d-2560-45bc-ab23-acb64dc7e8b8/page/FbxtC](https://lookerstudio.google.com/u/0/reporting/80d53d0d-2560-45bc-ab23-acb64dc7e8b8/page/FbxtC)
   
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/fa986fae-57df-453a-a2cc-a269cf3f7cc1)
-    
+
+Desafío: Organizar la información de la empresa con el objetivo de potenciar la toma de decisiones estratégicas.
+
+Trabajo realizado:  Sumergiéndonos en los procesos internos de la empresa, identificamos una necesidad imperante: la transición hacia un nuevo sistema que garantizara la precisión y eliminara los errores asociados con la carga manual de datos. De esta exploración, surgió la propuesta de cambio.  A partir de ello confeccionamos un Dashboard integral que se convirtió en el epicentro de información. Unificamos diversas fuentes de datos, incluyendo el sistema interno, hojas de cálculo y registros en papel, todos bajo una única estructura, orientados hacia las métricas vitales para la empresa. Esta culminación de esfuerzos resultó en un análisis exhaustivo y en la formulación de diversas vías de acción para alcanzar los objetivos trazados.
+
+Impacto:
+
+Claridad en los Costos: Nuestro proceso sacó a la luz inexactitudes en los costos derivadas de errores en gestiones pasadas. Estas revelaciones permitieron un replanteamiento certero, sentando las bases para una estructura financiera más sólida.
+
+Eficiencia y Agilidad: La información, ahora ordenada y presentada en un Dashboard, otorgó un acceso inmediato y confiable. Esto aceleró de manera significativa la toma de decisiones efectivas en todos los niveles de la empresa.
+
+Responsabilidad Social Empresarial (RSE): Se implemento un proceso de RSE, un pilar fundamental que generó un vínculo aún más profundo con los clientes, fortaleciendo la lealtad y consolidando la posición de la marca en el mercado.
+
+Diversidad de Oferta: Nos aventuramos en la incorporación de nuevos productos, diseñados para atraer a una variedad de públicos y adaptados a horarios distintos. Esta diversificación se tradujo directamente en un aumento notable en las ventas.
+Identidad Renovada: Para acompañar las transformaciones realizadas, abrazamos un rebranding. Esta renovación de la imagen de la marca transmitió al mercado la evolución constante de la empresa.
+
 - Dashboard Looker Studio - Análisis proyecto de inversión de Gráfica [https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c](https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c)
 
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/116b8d9c-271e-4acf-9a12-35af08b1a526) 
