@@ -1,5 +1,15 @@
 <h1 align="center">Natalia Terreno - Contadora Pública | Data & BI Analyst</h1>
-<h3 align="center">Me especializo en análisis de datos, planificación y control de gestión empresarial para la toma decisiones estratégicas en pos de lograr la mejora continua y el cumplimiento de la visión de negocio. Mi misión es transformar los datos en valor.</h3>
+<h3 align="center">▶️ Soy Contadora Pública y Data & BI Analyst con más de 10 años de experiencia en el rubro.  
+
+▶️ Me especializo en análisis de datos, planificación y control de gestión empresarial para la toma de decisiones estratégicas en pos de lograr la mejora continua y el cumplimiento de la visión de negocio. Mi misión es transformar los datos en valor.
+
+▶️ Los principios que rigen mi forma de trabajo:
+Aprendizaje continuo
+Experiencia y conocimiento
+Compromiso y responsabilidad
+Organización y planificación
+Perseverancia y proactividad
+Trabajo colaborativo en equipo creando sinergia .</h3>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
