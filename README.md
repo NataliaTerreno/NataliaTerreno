@@ -58,9 +58,9 @@ Trabajo realizado:
 Se trazó un minucioso plan para optimizar la información existente. Luego, consolidamos esta información en un Dashboard dinámico, brindando acceso instantáneo y acelerando la toma de decisiones en tiempo real.
 
 Impacto:
-Se incorporo la producción propia en el armado de los productos como una faceta integral del proceso, lo que permitió un control más profundo sobre la calidad y el diseño de los productos.
+Se incorporó la producción propia en el armado de los productos como una faceta integral del proceso, lo que permitió un control más profundo sobre la calidad y el diseño de los productos.
 Se mantuvo la logística tercerizada en tanto siga siendo más rentable que desarrollar un departamento de logística propio, lo que brindó flexibilidad y eficiencia en la distribución.
-Se incorporo un sistema de gestión avanzado, que abrió las puertas a una escalabilidad más sólida y permitió aprovechar plenamente las capacidades del CRM para campañas publicitarias y estrategias de email marketing de alto rendimiento.
+Se incorporó un sistema de gestión avanzado, que abrió las puertas a una escalabilidad más sólida y permitió aprovechar plenamente las capacidades del CRM para campañas publicitarias y estrategias de email marketing de alto rendimiento.
 A través de un minucioso análisis de mercado, se expandió el enfoque hacia la venta de productos digitalizados, capitalizando así nuevas oportunidades de mercado.
 Dichas acciones resultaron en un aumento de la eficiencia y por ende, en las ganancias de la empresa.
 
@@ -70,7 +70,7 @@ Dichas acciones resultaron en un aumento de la eficiencia y por ende, en las gan
 
 Desafío: Organizar la información de la empresa con el objetivo de potenciar la toma de decisiones estratégicas.
 
-Trabajo realizado:  Sumergiéndonos en los procesos internos de la empresa, identificamos una necesidad imperante: la transición hacia un nuevo sistema que garantizara la precisión y eliminara los errores asociados con la carga manual de datos. De esta exploración, surgió la propuesta de cambio.  A partir de ello confeccionamos un Dashboard integral que se convirtió en el epicentro de información. Unificamos diversas fuentes de datos, incluyendo el sistema interno, hojas de cálculo y registros en papel, todos bajo una única estructura, orientados hacia las métricas vitales para la empresa. Esta culminación de esfuerzos resultó en un análisis exhaustivo y en la formulación de diversas vías de acción para alcanzar los objetivos trazados.
+Trabajo realizado:  Sumergiéndonos en los procesos internos de la empresa, identificamos una necesidad imperante; la transición hacia un nuevo sistema que garantizara la precisión y eliminara los errores asociados con la carga manual de datos. De esta exploración, surgió la propuesta de cambio.  A partir de ello confeccionamos un Dashboard integral que se convirtió en el epicentro de información. Unificamos diversas fuentes de datos, incluyendo el sistema interno, hojas de cálculo y registros en papel, todos bajo una única estructura, orientados hacia las métricas vitales para la empresa. Esta culminación de esfuerzos resultó en un análisis exhaustivo y en la formulación de diversas vías de acción para alcanzar los objetivos trazados.
 
 Impacto:
 
@@ -78,9 +78,10 @@ Claridad en los Costos: Nuestro proceso sacó a la luz inexactitudes en los cost
 
 Eficiencia y Agilidad: La información, ahora ordenada y presentada en un Dashboard, otorgó un acceso inmediato y confiable. Esto aceleró de manera significativa la toma de decisiones efectivas en todos los niveles de la empresa.
 
-Responsabilidad Social Empresarial (RSE): Se implemento un proceso de RSE, un pilar fundamental que generó un vínculo aún más profundo con los clientes, fortaleciendo la lealtad y consolidando la posición de la marca en el mercado.
+Responsabilidad Social Empresarial (RSE): Se implementó un proceso de RSE, un pilar fundamental que generó un vínculo aún más profundo con los clientes, fortaleciendo la lealtad y consolidando la posición de la marca en el mercado.
 
 Diversidad de Oferta: Nos aventuramos en la incorporación de nuevos productos, diseñados para atraer a una variedad de públicos y adaptados a horarios distintos. Esta diversificación se tradujo directamente en un aumento notable en las ventas.
+
 Identidad Renovada: Para acompañar las transformaciones realizadas, abrazamos un rebranding. Esta renovación de la imagen de la marca transmitió al mercado la evolución constante de la empresa.
 
 - Dashboard Looker Studio - Análisis proyecto de inversión de Gráfica [https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c](https://lookerstudio.google.com/u/0/reporting/9b0e164e-0f3f-4ac7-8846-b97b54488b77/page/p_6dmgup3e4c)
