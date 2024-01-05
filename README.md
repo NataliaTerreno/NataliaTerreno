@@ -32,13 +32,13 @@ https://www.canva.com/design/DAFITmfq7Aw/view
   
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/3e67a72c-c697-446c-bd12-bef9b028628b)
 
-<ins> Desafío: </ins>
+<ins>Desafío:</ins>
 Optimizar la organización de la información empresarial mediante un Tablero de Control visual, permitiendo un seguimiento integral del proceso y rendimiento de las llamadas.
 
-Trabajo realizado:
+<ins>Trabajo realizado:</ins>
 El enfoque se centró en la definición precisa de métricas y KPIs relevantes, sentando así las bases para la creación del Tablero de Control. A través de un minucioso proceso, confeccionamos este tablero que se convirtió en el núcleo de monitoreo.
 
-Impacto:
+<ins>Impacto:</ins>
 Entre otras cosas surgieron algunos insights como el horario o días de mayor o menor demanda de llamadas, lo cual se acompañó de una reestructuración de personal.
 También se descubrió que aquellas personas que trabajaban atendiendo llamadas homeoffice rendían mejor (atendían más llamadas). 
 Estas revelaciones clave fueron la fuerza motriz detrás de una reestructuración integral del capital humano. La mejora del bienestar tanto del talento interno como de los clientes se convirtió en el epicentro de esta transformación. Como resultado directo, se ha logrado otorgar un mayor número de servicios, catalizando un incremento sustancial en la rentabilidad.
@@ -51,13 +51,14 @@ Estas revelaciones clave fueron la fuerza motriz detrás de una reestructuració
 
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/91433200-2a48-406a-8b01-a58557048175)
 
-Desafío:  
+<ins>Desafío:</ins>
 El reto principal consistía en amalgamar diversas fuentes de información, incluyendo sistemas, hojas de cálculo y registros en papel, en un único Dashboard. Este Dashboard debía capturar y reflejar las métricas vitales para la empresa. Por último se realizó un análisis del mismo y se propusieron diferentes vías de acciones para lograr el objetivo planteado por la empresa.
 
-Trabajo realizado:
+<ins>Desafío:</ins>
+<ins>Trabajo realizado:
 Se trazó un minucioso plan para optimizar la información existente. Luego, consolidamos esta información en un Dashboard dinámico, brindando acceso instantáneo y acelerando la toma de decisiones en tiempo real.
 
-Impacto:
+<ins>Impacto:</ins>
 Se incorporó la producción propia en el armado de los productos como una faceta integral del proceso, lo que permitió un control más profundo sobre la calidad y el diseño de los productos.
 Se mantuvo la logística tercerizada en tanto siga siendo más rentable que desarrollar un departamento de logística propio, lo que brindó flexibilidad y eficiencia en la distribución.
 Se incorporó un sistema de gestión avanzado, que abrió las puertas a una escalabilidad más sólida y permitió aprovechar plenamente las capacidades del CRM para campañas publicitarias y estrategias de email marketing de alto rendimiento.
@@ -68,11 +69,11 @@ Dichas acciones resultaron en un aumento de la eficiencia y por ende, en las gan
   
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/fa986fae-57df-453a-a2cc-a269cf3f7cc1)
 
-Desafío: Organizar la información de la empresa con el objetivo de potenciar la toma de decisiones estratégicas.
+<ins>Desafío: Organizar la información de la empresa con el objetivo de potenciar la toma de decisiones estratégicas.
 
-Trabajo realizado:  Sumergiéndonos en los procesos internos de la empresa, identificamos una necesidad imperante; la transición hacia un nuevo sistema que garantizara la precisión y eliminara los errores asociados con la carga manual de datos. De esta exploración, surgió la propuesta de cambio.  A partir de ello confeccionamos un Dashboard integral que se convirtió en el epicentro de información. Unificamos diversas fuentes de datos, incluyendo el sistema interno, hojas de cálculo y registros en papel, todos bajo una única estructura, orientados hacia las métricas vitales para la empresa. Esta culminación de esfuerzos resultó en un análisis exhaustivo y en la formulación de diversas vías de acción para alcanzar los objetivos trazados.
+<ins>Trabajo realizado:</ins>  Sumergiéndonos en los procesos internos de la empresa, identificamos una necesidad imperante; la transición hacia un nuevo sistema que garantizara la precisión y eliminara los errores asociados con la carga manual de datos. De esta exploración, surgió la propuesta de cambio.  A partir de ello confeccionamos un Dashboard integral que se convirtió en el epicentro de información. Unificamos diversas fuentes de datos, incluyendo el sistema interno, hojas de cálculo y registros en papel, todos bajo una única estructura, orientados hacia las métricas vitales para la empresa. Esta culminación de esfuerzos resultó en un análisis exhaustivo y en la formulación de diversas vías de acción para alcanzar los objetivos trazados.
 
-Impacto:
+<ins>Impacto:</ins>
 
 Claridad en los Costos: Nuestro proceso sacó a la luz inexactitudes en los costos derivadas de errores en gestiones pasadas. Estas revelaciones permitieron un replanteamiento certero, sentando las bases para una estructura financiera más sólida.
 
@@ -88,14 +89,14 @@ Identidad Renovada: Para acompañar las transformaciones realizadas, abrazamos u
 
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/116b8d9c-271e-4acf-9a12-35af08b1a526) 
 
-Desafío:
+<ins>Desafío:</ins>
 El desafío se centró en la creación de un análisis de proyecto de inversión para la expansión a través de franquicias 
 
-Trabajo realizado:
+<ins>Trabajo realizado:</ins>
 Se emprendió un proceso de recopilación de datos, buscando capturar la esencia de la empresa. Luego se realizaron proyecciones y análisis para evaluar la viabilidad del proyecto. Estos hallazgos se plasmaron de manera visual y estructurada en un Dashboard, proporcionando una representación clara y comprensible.
 Adicionalmente, se llevó a cabo una comparación del proyecto de franquicias con otras alternativas de inversión disponibles en el mercado, explorando todas las opciones posibles.
 
-Impacto:
+<ins>Impacto:</ins>
 La labor de análisis reveló una perspectiva valiosa. Basándonos en los datos recopilados y el análisis profundo, se tomó una decisión estratégica: optar por otra alternativa de inversión, específicamente la creación de un centro de distribución. Esta elección brindó la oportunidad de evaluar y sopesar el proyecto de franquicias con mayor detenimiento, evitando lanzarlo de manera inmediata.
 Esta decisión estratégica demostró ser crucial, ya que evitó posibles pérdidas tanto financieras como de tiempo para la empresa. Al aplazar la implementación del proyecto de franquicias, nos permitió concentrarnos en la planificación y desarrollo del nuevo enfoque de centro de distribución, maximizando así el potencial y los recursos de la empresa.
     
