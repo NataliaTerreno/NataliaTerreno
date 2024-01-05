@@ -52,7 +52,7 @@ Estas revelaciones clave fueron la fuerza motriz detrás de una reestructuració
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/91433200-2a48-406a-8b01-a58557048175)
 
 Desafío:  
-El reto principal consistía en amalgamar diversas fuentes de información, incluyendo sistemas, hojas de cálculo y registros en papel, en un único Dashboard. Este Dashboard debía capturar y reflejar las métricas vitales para la empresa. Por ultimo se realizo un analisis del mismo y se propusieron diferentes vias de acciones para lograr el objetivo planteado por la empresa.
+El reto principal consistía en amalgamar diversas fuentes de información, incluyendo sistemas, hojas de cálculo y registros en papel, en un único Dashboard. Este Dashboard debía capturar y reflejar las métricas vitales para la empresa. Por último se realizó un análisis del mismo y se propusieron diferentes vías de acciones para lograr el objetivo planteado por la empresa.
 
 Trabajo realizado:
 Se trazó un minucioso plan para optimizar la información existente. Luego, consolidamos esta información en un Dashboard dinámico, brindando acceso instantáneo y acelerando la toma de decisiones en tiempo real.
