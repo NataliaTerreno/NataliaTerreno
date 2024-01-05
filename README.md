@@ -3,7 +3,7 @@
 
 ▶️ Soy Contadora Pública, Analista de datos y Consultora de negocios, con más de 10 años de experiencia en el rubro.  
 
-▶️ Me especializo en análisis de finanzas, planificación y control de gestión empresarial para la toma de decisiones estratégicas en pos de lograr la mejora continua y el cumplimiento de la visión de negocio. Mi misión es transformar los datos en valor.
+▶️ Me especializo en análisis de finanzas, planificación y control de gestión empresarial para la toma de decisiones estratégicas en pos de lograr la mejora continua y el cumplimiento de la visión de negocio. Mi misión es transformar los datos en valor. ¿Cómo? A partir de la entrega de información analizada y procesada para determinar el mejor plan de acción a seguir. 
 
 ▶️ Los principios que rigen mi forma de trabajo: Aprendizaje continuo - Experiencia y conocimiento - Compromiso y responsabilidad - Organización y planificación - Perseverancia y proactividad - Trabajo colaborativo en equipo creando sinergia 
 
