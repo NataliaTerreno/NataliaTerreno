@@ -54,8 +54,7 @@ Estas revelaciones clave fueron la fuerza motriz detrás de una reestructuració
 <ins>Desafío:</ins>
 El reto principal consistía en amalgamar diversas fuentes de información, incluyendo sistemas, hojas de cálculo y registros en papel, en un único Dashboard. Este Dashboard debía capturar y reflejar las métricas vitales para la empresa. Por último se realizó un análisis del mismo y se propusieron diferentes vías de acciones para lograr el objetivo planteado por la empresa.
 
-<ins>Desafío:</ins>
-<ins>Trabajo realizado:
+<ins>Trabajo realizado:</ins>
 Se trazó un minucioso plan para optimizar la información existente. Luego, consolidamos esta información en un Dashboard dinámico, brindando acceso instantáneo y acelerando la toma de decisiones en tiempo real.
 
 <ins>Impacto:</ins>
