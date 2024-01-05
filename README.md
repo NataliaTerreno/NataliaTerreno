@@ -69,7 +69,7 @@ Dichas acciones resultaron en un aumento de la eficiencia y por ende, en las gan
   
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/fa986fae-57df-453a-a2cc-a269cf3f7cc1)
 
-<ins>Desafío: Organizar la información de la empresa con el objetivo de potenciar la toma de decisiones estratégicas.
+<ins>Desafío:</ins> Organizar la información de la empresa con el objetivo de potenciar la toma de decisiones estratégicas.
 
 <ins>Trabajo realizado:</ins>  Sumergiéndonos en los procesos internos de la empresa, identificamos una necesidad imperante; la transición hacia un nuevo sistema que garantizara la precisión y eliminara los errores asociados con la carga manual de datos. De esta exploración, surgió la propuesta de cambio.  A partir de ello confeccionamos un Dashboard integral que se convirtió en el epicentro de información. Unificamos diversas fuentes de datos, incluyendo el sistema interno, hojas de cálculo y registros en papel, todos bajo una única estructura, orientados hacia las métricas vitales para la empresa. Esta culminación de esfuerzos resultó en un análisis exhaustivo y en la formulación de diversas vías de acción para alcanzar los objetivos trazados.
 
