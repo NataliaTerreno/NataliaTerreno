@@ -32,7 +32,7 @@ https://www.canva.com/design/DAFITmfq7Aw/view
   
 ![image](https://github.com/NataliaTerreno/NataliaTerreno/assets/124213874/3e67a72c-c697-446c-bd12-bef9b028628b)
 
-Desafío:
+<ins> Desafío: </ins>
 Optimizar la organización de la información empresarial mediante un Tablero de Control visual, permitiendo un seguimiento integral del proceso y rendimiento de las llamadas.
 
 Trabajo realizado:
