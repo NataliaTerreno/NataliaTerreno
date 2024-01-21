@@ -3,11 +3,11 @@
 
 ▶️ Soy Contadora Pública, Analista de datos y Consultora de negocios, con más de 10 años de experiencia en el rubro.  
 
-▶️ Me especializo en análisis de finanzas, planificación y control de gestión empresarial para la toma de decisiones estratégicas en pos de lograr la mejora continua y el cumplimiento de la visión de negocio. Mi misión es transformar los datos en valor. ¿Cómo? A partir de la entrega de información analizada y procesada para determinar el mejor plan de acción a seguir en base a los objetivos definidos. 
+▶️ Me especializo en análisis de finanzas, planificación y control de gestión empresarial para la toma de decisiones estratégicas en pos de lograr la mejora continua, el cumplimiento de la visión de negocio y su consecuente impacto positivo en el entorno de la organización. Mi misión es transformar los datos en valor. ¿Cómo? A partir de la entrega de información analizada y procesada para determinar el mejor plan de acción a seguir en base a los objetivos definidos. 
 
 ▶️ Los principios que rigen mi forma de trabajo: Aprendizaje continuo - Experiencia y conocimiento - Compromiso y responsabilidad - Organización y planificación - Perseverancia y proactividad - Trabajo colaborativo en equipo creando sinergia 
 
-▶️ Si crees que te puedo aportar valor o podemos generar intercambio de conocimientos, contactame!
+▶️ Si crees que puedo aportar valor en tu organización o podemos generar intercambio de conocimientos, contactame!
 
 .</h3>
 
@@ -21,7 +21,7 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://teorema-rd.com/storage/2020/05/PowerBI-Logo.png" width="40" height="40"/> </a> <img src="https://vandelay.es//wp-content/webpc-passthru.php?src=https://vandelay.es/wp-content/uploads/2023/01/looker-studios.jpg&nocache=1" width="40" height="40"/> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="40" height="40"/> </a> 
 
 
-<h3 align="left">Currículum Vitae:</h3>
+<h3 align="left">Experiencia Laboral (CV):</h3>
 <p align="left">
 https://www.canva.com/design/DAFITmfq7Aw/view
 
