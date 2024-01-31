@@ -1,4 +1,4 @@
-<h2 align="center"> Business Consultant: Cra. Pública y Data Analyst especializada en Analista de Finanzas y Control de Gestión 
+<h2 align="center"> Business Consultant | Cra. Pública y Data Analyst especializada en Analista de Finanzas y Control de Gestión 
 
 <h3 align="center">
 ◘ Soy Contadora Pública, Analista de datos y Consultora de negocios, con más de 10 años de experiencia en el rubro. A lo largo de mi carrera he tenido el privilegio de trabajar con una amplia gama de empresas, desde emprendimientos en su face inicial hasta grandes corporaciones con presencia global en mas de 15 países.
