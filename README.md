@@ -1,6 +1,6 @@
 <h2 align="center"> Business Consultant | Cra. Pública y Data Analyst especializada en Análisis de Finanzas y Control de Gestión 
 
-<h3 align="center">
+<p align="left">
     
 ◘ Con más de 10 años de carrera he tenido el privilegio de trabajar con una amplia gama de empresas, desde emprendimientos en su face inicial hasta grandes corporaciones con presencia global en mas de 15 países.                                                                                                    
 
@@ -10,7 +10,7 @@
 
 ◘ Si crees que puedo aportar valor en tu organización o podemos generar intercambio de conocimientos, contactame!
 
-.</h3>
+
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/natalia-terreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natalia-terreno" height="30" width="40" /></a>
