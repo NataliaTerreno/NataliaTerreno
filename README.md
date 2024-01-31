@@ -1,6 +1,6 @@
 <h2 align="center"> Business Consultant | Cra. Pública y Data Analyst especializada en Análisis de Finanzas y Control de Gestión 
 
-<p align="left">
+<h4 align="left">
     
 ◘ Con más de 10 años de carrera he tenido el privilegio de trabajar con una amplia gama de empresas, desde emprendimientos en su face inicial hasta grandes corporaciones con presencia global en mas de 15 países.                                                                                                    
 
