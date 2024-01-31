@@ -8,7 +8,7 @@
 
 ◘ Los principios que rigen mi forma de trabajo: Aprendizaje continuo - Experiencia y conocimiento - Compromiso y responsabilidad - Organización y planificación - Perseverancia y proactividad - Trabajo colaborativo en equipo creando sinergia 
 
-◘ Si crees que puedo aportar valor en tu organización o podemos generar intercambio de conocimientos, contactame!
+◘ Si crees que puedo aportar valor en tu organización o podemos generar intercambio de conocimientos, contactame! </p>
 
 
 <h3 align="left">Conecta conmigo:</h3>
