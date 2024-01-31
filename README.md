@@ -9,7 +9,7 @@
 
 ◘ Si crees que puedo aportar valor en tu organización o podemos generar intercambio de conocimientos, contactame!
 
-.</h3>
+.</p>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
