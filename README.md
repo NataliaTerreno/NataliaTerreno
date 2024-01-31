@@ -1,4 +1,4 @@
-<h2 align="center"> Business Consultant | Cra. Pública y Data Analyst especializada en Análisis de Finanzas y Control de Gestión 
+<h2 align="center"> Business Consultant | Cra. Pública y Data Analyst - Especialista en Análisis de Finanzas y Control de Gestión 
 
 <h4 align="left">
     
