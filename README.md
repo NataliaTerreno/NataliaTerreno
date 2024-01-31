@@ -1,4 +1,5 @@
-<h1 align="center"> Cra. Pública - Data Analyst | 
+<h1 align="center"> Cra. Pública - Data Analyst 
+    
     Analista de Finanzas y Control de Gestión - Business Consultant </h1>
 <h3 align="center">
 
